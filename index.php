@@ -107,7 +107,7 @@ $(function(){
 	<div id="bodyContainer">
         <div id="columnLeft">
 	<div class="example1">
-          <marquee behavior="scroll" direction="left"><h1 class="first"><strong>Happy Birthday Mina</strong> to Kuantan Bike Rental</h1></marquee>
+          <marquee behavior="scroll" direction="left"><h1 class="first"><strong>Hello Mina Fans</strong> to Kuantan Bike Rental</h1></marquee>
         </div>  
 	
 	<div class="content">
