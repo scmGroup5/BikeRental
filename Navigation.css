@@ -1,0 +1,102 @@
+#nav {
+	background: url("background/nav_background1.jpg") repeat-x;
+	height: 50px;
+	line-height: 50px;
+	text-align: right;
+}
+#navInner { float: right; margin-right: 30px; width: 720px; }
+#nav #tab0, #nav #tab1, #nav #tab2, #nav #tab3, #nav #tab4, #nav #tab5 {
+	display: block;
+	height: 50px;
+}
+#nav #tab0, #sfNav li:hover ul#sfTab0, #sfNav li.sfHover ul#sfTab0, 
+#nav #tab1, #sfNav li:hover ul#sfTab1, #sfNav li.sfHover ul#sfTab1, 
+#nav #tab2, #sfNav li:hover ul#sfTab2, #sfNav li.sfHover ul#sfTab2, 
+#nav #tab3, #sfNav li:hover ul#sfTab3, #sfNav li.sfHover ul#sfTab3, 
+#nav #tab4, #sfNav li:hover ul#sfTab4, #sfNav li.sfHover ul#sfTab4, 
+#nav #tab5, #sfNav li:hover ul#sfTab5, #sfNav li.sfHover ul#sfTab5 { width: 120px; }
+#nav #tab0 { background-position: 0 0; }
+#nav #tab1 { background-position: -120px 0; }
+#nav #tab2 { background-position: -240px 0; }
+#nav #tab3 { background-position: -360px 0; }
+#nav #tab4 { background-position: -480px 0; }
+#nav #tab5 { background-position: -600px 0; }
+#nav #tab0:hover, #nav #tab0.current, #sfNav li.sfHover #tab0 { background-position: 0 -50px; }
+#nav #tab1:hover, #nav #tab1.current, #sfNav li.sfHover #tab1 { background-position: -120px -50px; }
+#nav #tab2:hover, #nav #tab2.current, #sfNav li.sfHover #tab2 { background-position: -240px -50px; }
+#nav #tab3:hover, #nav #tab3.current, #sfNav li.sfHover #tab3 { background-position: -360px -50px; }
+#nav #tab4:hover, #nav #tab4.current, #sfNav li.sfHover #tab4 { background-position: -480px -50px; }
+#nav #tab5:hover, #nav #tab5.current, #sfNav li.sfHover #tab5 { background-position: -600px -50px; }
+
+
+/*** CUSTOM STYLES ***/
+#sfNav, #sfNav * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#sfNav {
+	line-height: 50px;
+}
+#sfNav ul {
+	position: absolute;
+	top: -999em;
+	width: 120px; /* left offset of submenus need to match (see below) */
+}
+#sfNav ul li {
+	width: 100%;
+}
+#sfNav li:hover {
+	visibility: inherit; /* fixes IE7 'sticky bug' */
+}
+#sfNav li {
+	float: left;
+	position: relative;
+	text-align: center;
+}
+#sfNav a {
+	display: block;
+	position: relative;
+}
+#sfNav li:hover ul,
+#sfNav li.sfHover ul {
+	left: 0;
+	top: 50px; /* match top ul list item height */
+	z-index: 999;
+}
+
+
+/*** CUSTOM SKIN ***/
+#sfNav {
+	float: left;
+}
+#sfNav a { color: #333; font-weight: bold; }
+#sfNav a, #sfNav a:visited  {}
+#sfNav li li {
+	background: url("background/nav_background1.jpg") center repeat-x #bdbdbd;
+	border-top: 1px solid #ececec;
+	border-bottom: 1px solid #7f7f7f;
+	line-height: 2em;
+	-text-shadow: 0 1px 1px #fff;
+}
+
+#sfNav li:hover, #sfNav li.sfHover, 
+#sfNav a:focus, #sfNav a:hover, #sfNav a:active {
+	background: url("background/nav_background2.jpg") center repeat-x #4a83c4;
+	outline: 0;
+	color: #fff;
+	-text-shadow: 0 -1px 1px #333;
+	text-decoration: none;
+}
+#sfNav li li:hover, #sfNav li.sfHover li:hover,
+#sfNav li.sfHover li li:hover {
+	border-top: 1px solid #c4d3e1;
+	border-bottom: 1px solid #3e579e;
+}
+
+
+
+
+
+
+
