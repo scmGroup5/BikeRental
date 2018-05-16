@@ -27,7 +27,7 @@ div.img {
 <script >
 function myFunction()
 {
-alert("Booking in process");
+alert("Please wait, booking is processing");
 };
 </script >
 
