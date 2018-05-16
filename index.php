@@ -107,12 +107,12 @@ $(function(){
 	<div id="bodyContainer">
         <div id="columnLeft">
 	<div class="example1">
-          <marquee behavior="scroll" direction="left"><h1 class="first"><strong>Welcome</strong> to Kuantan Bike Rental</h1></marquee>
+          <marquee behavior="scroll" direction="left"><h1 class="first"><strong>Happy Birthday IU</strong> to Kuantan Bike Rental</h1></marquee>
         </div>  
 	
 	<div class="content">
             <div style="float: left; width: 350px; font-size: 15px;">
-              <p>Explore the land of surprising contradictions, from bustling metropolis to peaceful, laidback countryside. We have knowledgeable and friendly staff from all over the world to help you through the process and to get you on the right bike so you can enjoy your ride.</p>
+              <p>Kenny explore the land of surprising contradictions, from bustling metropolis to peaceful, laidback countryside. We have knowledgeable and friendly staff from all over the world to help you through the process and to get you on the right bike so you can enjoy your ride.</p>
               <p>Our commitment is to ensure that your ride  is fun and memorable. Our hope is for  you to return home with pleasant and fond memories after a getaway with us and  have made some new friends for life.</p>
               <p>Ride with us and &nbsp; <strong style="font-size: 17px; color: #4f81bd;">Turn Your Miles into Smiles!</strong></p>
 	</div>
