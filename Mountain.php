@@ -132,7 +132,7 @@ div.desc {
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
 	 <p>Speed - 9 Speed</p>
 	 <p>Tyre - 27.5" x 1.95"</p>
-	 <p>Brake - Hydraulic</p>
+	 <p>Brake - None</p>
 	 
 	 <p style="color: red;">RM120.00/day</p>
     </td>
