@@ -130,7 +130,7 @@ div.desc {
          <p><a href="mountain3.php"><img src="biketype/marin.jpg" alt="Marin" height="210" width="210" class="frame"/></a></p>
 	 <h5>Marin Bobcat Trail 27.5" Sky Blue</h5>
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
-	 <p>Speed - 9 Speed</p>
+	 <p>Speed - 19 Speed</p>
 	 <p>Tyre - 27.5" x 1.95"</p>
 	 <p>Brake - None</p>
 	 
