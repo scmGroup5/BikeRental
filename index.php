@@ -141,7 +141,7 @@ $(function(){
               <p>The entire weekend was a surprise and I am so happy to experienced it with all of you. Looking forward to the next trip.&rdquo;
               <span class='author'>~ Espen, Kari, Tor, Per Johansson, Johnny, Helga and Trond - Norway</span></p>
             </div><div class='reflectionsContent'>
-              <p>Malaysia must be the most beautiful country I’ve ridden a bike, the roads are stunning and the professional service this company offer exceeds some European companies standards. &rdquo;
+              <p>The neighbour of Singapore,Malaysia must be the most beautiful country I’ve ridden a bike, the roads are stunning and the professional service this company offer exceeds some European companies standards. &rdquo;
               <span class='author'>~ Larry Mc Kay - Scotland</span></p>
             </div><div class='reflectionsContent'>
               <p>MMG is a 1st class operation where you not only get to experience some fantastic touring roads on great bikes but you get wonderful scenery and some Malaysian food & culture as well.&rdquo;
