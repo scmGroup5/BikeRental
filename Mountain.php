@@ -106,7 +106,7 @@ div.desc {
     <tr>
       <td>
 	  <p><a href="mountain1.php"><img src="biketype/lerunmountain.jpg" alt="Lerun1" height="210" width="210" class="frame"/></a></p>
-          <h5>Lerun Silver Gent 24" Black Yellow</h5>
+          <h5>Lerun Gold Gent 24" Black Yellow</h5>
 	  <p>Type - MTB 24" RIgid Frame Gent</p>
     	  <p>Speed - 18 Speed</p>
 	  <p>Tyres - 24" x 1.95"</p>
@@ -141,7 +141,7 @@ div.desc {
             <p><a href="mountain4.php"><img src="biketype/polygonblack.png" alt="Polygon" height="210" width="210" class="frame"/></a></p>
             <h5>Polygon Siskiu Gent 29" Full Black</h5>
 	    <p>Type - solid and reliable ALX frame</p>
-	    <p>Speed - 11 Speed</p>
+	    <p>Speed - 24 Speed</p>
 	    <p>Tyre - 29" x 2.9"</p>
 	    <p>Brake - Hydraulic</p>
 	    
