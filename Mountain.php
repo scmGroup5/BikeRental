@@ -106,7 +106,7 @@ div.desc {
     <tr>
       <td>
 	  <p><a href="mountain1.php"><img src="biketype/lerunmountain.jpg" alt="Lerun1" height="210" width="210" class="frame"/></a></p>
-          <h5>Lerun Bonus Gent 24" Black Yellow</h5>
+          <h5>Lerun Silver Gent 24" Black Yellow</h5>
 	  <p>Type - MTB 24" RIgid Frame Gent</p>
     	  <p>Speed - 18 Speed</p>
 	  <p>Tyres - 24" x 1.95"</p>
@@ -117,9 +117,9 @@ div.desc {
 
    <td>
         <p><a href="mountain2.php"><img src="biketype/lerunlady.jpg" alt="Lerun1" height="210" width="210" class="frame"/></a></p>
-         <h5>Lerun Bonus Gent 26" Blue Blue</h5>
+         <h5>Lerun Bonus Gent 30" Red Blue</h5>
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
-	 <p>Speed - 18 Speed</p>
+	 <p>Speed - 15 Speed</p>
 	 <p>Tyre - 26" x 1.95"</p>
 	 <p>Brake - Steel V-brake</p>
 	 
@@ -132,7 +132,7 @@ div.desc {
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
 	 <p>Speed - 9 Speed</p>
 	 <p>Tyre - 27.5" x 1.95"</p>
-	 <p>Brake - Hydraulic</p>
+	 <p>Brake - None</p>
 	 
 	 <p style="color: red;">RM120.00/day</p>
     </td>
