@@ -131,7 +131,7 @@ div.desc {
 	 <h5>Marin Bobcat Trail 27.5" Sky Blue</h5>
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
 	 <p>Speed - 9 Speed</p>
-	 <p>Tyre - 28.5" x 1.95"</p>
+	 <p>Tyre - 27.5" x 1.95"</p>
 	 <p>Brake - Hydraulic</p>
 	 
 	 <p style="color: red;">RM120.00/day</p>
