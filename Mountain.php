@@ -117,7 +117,7 @@ div.desc {
 
    <td>
         <p><a href="mountain2.php"><img src="biketype/lerunlady.jpg" alt="Lerun1" height="210" width="210" class="frame"/></a></p>
-         <h5>Lerun Bonus Gent 30" Red Blue</h5>
+         <h5>Lerun Bonus Gent 30" Blue Blue</h5>
 	 <p>Type - MTB 26" RIgid Frame Gent</p>
 	 <p>Speed - 15 Speed</p>
 	 <p>Tyre - 26" x 1.95"</p>
