@@ -141,7 +141,7 @@ div.desc {
             <p><a href="mountain4.php"><img src="biketype/polygonblack.png" alt="Polygon" height="210" width="210" class="frame"/></a></p>
             <h5>Polygon Siskiu Gent 29" Full Black</h5>
 	    <p>Type - solid and reliable ALX frame</p>
-	    <p>Speed - 24 Speed</p>
+	    <p>Speed - 14 Speed</p>
 	    <p>Tyre - 29" x 2.9"</p>
 	    <p>Brake - Hydraulic</p>
 	    
