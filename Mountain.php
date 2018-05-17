@@ -109,7 +109,7 @@ div.desc {
           <h5>Lerun Bonus Gent 24" Black Yellow</h5>
 	  <p>Type - MTB 24" RIgid Frame Gent</p>
     	  <p>Speed - 18 Speed</p>
-	  <p>Tyre - 24" x 1.95"</p>
+	  <p>Tyres - 24" x 1.95"</p>
 	  <p>Brake - Steel V-brake</p>
 	  
 	  <p style="color: red;">RM100.00/day</p>
