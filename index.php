@@ -113,7 +113,7 @@ $(function(){
 	<div class="content">
             <div style="float: left; width: 350px; font-size: 15px;">
               <p>Kenny explore the land of surprising contradictions, from bustling metropolis to peaceful, laidback countryside. We have knowledgeable and friendly staff from all over the world to help you through the process and to get you on the right bike so you can enjoy your ride.</p>
-              <p>Our commitment is to ensure that your ride  is fun and memorable. Our hope is for  you to return home with pleasant and fond memories after a getaway with us and  have made some new friends for life.</p>
+              <p>Our commitment is to ensure that your ride  is happy and memorable. Our hope is for you to return home with pleasant and fond memories after a getaway with us and  have made some new friends for life.</p>
               <p>Ride with us and &nbsp; <strong style="font-size: 17px; color: #4f81bd;">Turn Your Miles into Smiles!</strong></p>
 	</div>
 
@@ -139,7 +139,7 @@ $(function(){
 	    <div id="reflections">Reflections - What they have experienced...</div>
             <div class='reflectionsContent'>
               <p>The entire weekend was a surprise and I am so happy to experienced it with all of you. Looking forward to the next trip.&rdquo;
-              <span class='author'>~ Espen, Kari, Tor, Per Johansson, Johnny, Helga and Trond - Norway</span></p>
+              <span class='author'>~ Jackson,Leo , Tor, Per Johansson, Johnny, Helga and Trond - Norway</span></p>
             </div><div class='reflectionsContent'>
               <p>Malaysia must be the most beautiful country I’ve ridden a bike, the roads are stunning and the professional service this company offer exceeds some European companies standards. &rdquo;
               <span class='author'>~ Larry Mc Kay - Scotland</span></p>
