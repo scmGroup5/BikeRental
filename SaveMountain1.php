@@ -33,6 +33,7 @@ if ($row3[0]==0 || $row3[0]<$quantity)
 	
 }
 
+
 else{
 $result2 = mysql_query("SELECT Lerun1 FROM mountainbike");
 $row2 = mysql_fetch_array($result2);
