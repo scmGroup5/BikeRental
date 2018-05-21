@@ -15,6 +15,7 @@ session_start();
 <link href="Navigation.css" rel="stylesheet" type="text/css" />
 </head>
 
+
 <body>
 <div id="fb-root"></div>
 <a id="top"></a><div id="base">
