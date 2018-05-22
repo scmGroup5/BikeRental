@@ -26,6 +26,8 @@ div.img {
     float: center;
     text-align: center;
 }
+	
+	
 
 div.img img {
     display: inline;
